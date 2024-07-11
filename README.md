@@ -1,5 +1,7 @@
 # 💫 About Me: Hi I'm Shagun Maurya
-A Final year Bachelor of technology Student at Delhi Technological University.<br>I'm a Full stack Web Developer with hand on experience with front end Technologies like React.js, CSS And Tailwind CSS. and for Backend Technologies like Node.js and also Familiar with developer tools like Firebase, Mongo DB , Azure and Google cloud.<br>I'm looking for Software Engineering Internships.
+A Final year Bachelor of technology Student at Delhi Technological University.<br>I'm a Full stack Web Developer with hand on experience with front end Technologies like React.js, CSS And Tailwind CSS. and for Backend Technologies like Node.js and also Familiar with developer tools like Firebase, Mongo DB , Azure and Google cloud.<br>I'm looking for Software Engineering Full Time role.
+Feel Free to Reach over Email :- shagunmaurya17@gmail.com 
+And phone call : +917011687941
 
 
 ## 🌐 Socials:
